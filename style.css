@@ -1,10 +1,10 @@
-/* Meu CSS - site dos Homens-Aranha */
+
 
 body {
   font-family: Arial, sans-serif;
 }
 
-/* menu vermelho */
+
 .navbar {
   background-color: #c8102e !important;
 }
@@ -14,7 +14,7 @@ body {
   letter-spacing: 1px;
 }
 
-/* fundo azul clarinho no topo da página */
+
 header {
   background-color: #dce6f7 !important;
 }
@@ -24,7 +24,7 @@ header {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
 }
 
-/* rodapé azul */
+
 footer {
   background-color: #1b3a8a !important;
 }
